@@ -1,0 +1,6 @@
+flask==3.0.3
+ultralytics>=8.4.37
+paddlepaddle
+paddleocr
+opencv-contrib-python==4.9.0.80
+numpy==1.26.4

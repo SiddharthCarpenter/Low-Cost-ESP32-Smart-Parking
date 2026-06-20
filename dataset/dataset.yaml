@@ -1,0 +1,7 @@
+path: C:/Users/hp/OneDrive/Desktop/PARR/ANPR_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: license_plate
